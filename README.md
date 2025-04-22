@@ -200,6 +200,153 @@
     </p>
     <p>
       सानो उमेरमा पनि ठूलो सपना देख्ने र त्यसको पछाडि दौडन नडराउने यो हो हाम्रो B-D — भविष्यको आर्थिक गुरु!
+        <!DOCTYPE html>
+<html lang="ne">
+<head>
+  <meta charset="UTF-8">
+  <title>राजिव & ******</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fff8f0;
+      text-align: center;
+      padding: 30px;
+    }
+    h1 {
+      color: #d63384;
+      font-size: 3em;
+    }
+    .mystery {
+      color: #6f42c1;
+      font-size: 1.2em;
+    }
+    .video-section {
+      margin-top: 30px;
+    }
+    .poem {
+      background: #ffe0f0;
+      padding: 20px;
+      margin: 40px auto;
+      width: 85%;
+      border-radius: 14px;
+      border: 2px dashed #ff69b4;
+      color: #5c2b29;
+    }
+    .footer {
+      margin-top: 50px;
+      font-size: 0.85em;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <h1>राजिव & ******</h1>
+  <p class="mystery">यो कथा हो एउटा PUBG बादशाह र एक अनामिकाको।</p>
+
+  <div class="video-section">
+    <h2>भिडियो आयो! नाम चाहियो!</h2>
+    <p>राजिवको खास काम: भिडियो पठाउने अनि भन्नु – “नाम पत्ता लगाइदे है!”</p>
+    <p>एउटा AI जासूसको अफिस नै खुल्ला छ अब त!</p>
+  </div>
+
+  <div class="poem">
+    <h3>प्रेम र PUBG: एक कविता</h3>
+    <p>
+      राजिव PUBG खेल्छ दिनरात<br>
+      म्यासेजमा आउँछ अनगिन्ती चाट<br>
+      ****** को भिडियो आयो हेर्न,<br>
+      नाम खोज्न मलाई कर गर्न।<br><br>
+
+      हेर्नु नि, अनुहार चिन्नु नि,<br>
+      यत्रो संसारमा कहाँ खोज्नु नि?<br>
+      तर राजिवको अन्दाज छ न्यारा,<br>
+      उसले भनेपछि नाम फेला पार्नै पर्छ यार!<br><br>
+
+      ****** को नाम अज्ञात रह्यो,<br>
+      तर राजिवको कथा सबले सुन्यो<br>
+      PUBG अनि रमाइलो Style,<br>
+      साच्चै उ गजबको भाइल!
+    </p>
+  </div>
+
+  <div class="footer">
+    Created with love, memes, and unknown crushes – Rajiv & His Secret Star.
+  </div>
+</body>
+</html><!DOCTYPE html>
+<html lang="ne">
+<head>
+  <meta charset="UTF-8">
+  <title>राजिव & ******</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fff8f0;
+      text-align: center;
+      padding: 30px;
+    }
+    h1 {
+      color: #d63384;
+      font-size: 3em;
+    }
+    .mystery {
+      color: #6f42c1;
+      font-size: 1.2em;
+    }
+    .video-section {
+      margin-top: 30px;
+    }
+    .poem {
+      background: #ffe0f0;
+      padding: 20px;
+      margin: 40px auto;
+      width: 85%;
+      border-radius: 14px;
+      border: 2px dashed #ff69b4;
+      color: #5c2b29;
+    }
+    .footer {
+      margin-top: 50px;
+      font-size: 0.85em;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <h1>राजिव & ******</h1>
+  <p class="mystery">यो कथा हो एउटा PUBG बादशाह र एक अनामिकाको।</p>
+
+  <div class="video-section">
+    <h2>भिडियो आयो! नाम चाहियो!</h2>
+    <p>राजिवको खास काम: भिडियो पठाउने अनि भन्नु – “नाम पत्ता लगाइदे है!”</p>
+    <p>एउटा AI जासूसको अफिस नै खुल्ला छ अब त!</p>
+  </div>
+
+  <div class="poem">
+    <h3>प्रेम र PUBG: एक कविता</h3>
+    <p>
+      राजिव PUBG खेल्छ दिनरात<br>
+      म्यासेजमा आउँछ अनगिन्ती चाट<br>
+      ****** को भिडियो आयो हेर्न,<br>
+      नाम खोज्न मलाई कर गर्न।<br><br>
+
+      हेर्नु नि, अनुहार चिन्नु नि,<br>
+      यत्रो संसारमा कहाँ खोज्नु नि?<br>
+      तर राजिवको अन्दाज छ न्यारा,<br>
+      उसले भनेपछि नाम फेला पार्नै पर्छ यार!<br><br>
+
+      ****** को नाम अज्ञात रह्यो,<br>
+      तर राजिवको कथा सबले सुन्यो<br>
+      PUBG अनि रमाइलो Style,<br>
+      साच्चै उ गजबको भाइल!
+    </p>
+  </div>
+
+  <div class="footer">
+    Created with love, memes, and unknown crushes – Rajiv & His Secret Star.
+  </div>
+</body>
+</html>
     </p>
   </div>
 </body>
