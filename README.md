@@ -177,3 +177,30 @@
     </p>
   </div></body>
 </html>
+<!DOCTYPE html><html lang="ne">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>B-D को परिचय</title>
+  <style>
+    body { font-family: 'Arial', sans-serif; background-color: #f4f4f4; color: #333; padding: 20px; }
+    .intro { background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); max-width: 600px; margin: auto; margin-top: 50px; }
+    h1 { color: #2c3e50; text-align: center; }
+    p { font-size: 18px; line-height: 1.6; }
+  </style>
+</head>
+<body>
+  <div class="intro">
+    <h1>परिचय: B-D</h1>
+    <p>
+      हाम्रो साथी B-D, खातामा टप गर्ने सानो जादुगर हो। उसको उमेर मात्र १३ वर्ष भए पनि उसले अकाउन्ट्स विषयमा देखाएको ज्ञान र मेहनत साँच्चिकै प्रेरणादायक छ।
+    </p>
+    <p>
+      उस्को आमाबुबा भने निकै कडा अनुशासनमा विश्वास राख्ने हुनुहुन्छ। तर B-D ले त्यो अनुशासनलाई आफ्नो सफलताको खुड्किलो बनाएको छ।
+    </p>
+    <p>
+      सानो उमेरमा पनि ठूलो सपना देख्ने र त्यसको पछाडि दौडन नडराउने यो हो हाम्रो B-D — भविष्यको आर्थिक गुरु!
+    </p>
+  </div>
+</body>
+</html>
