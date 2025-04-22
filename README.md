@@ -204,3 +204,74 @@
   </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About This Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #4CAF50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin-top: 20px;
+    }
+    h2 {
+      color: #333;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to Our Fun Website</h1>
+    <p>Created by Rohan — Just for Fun!</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About This Website</h2>
+      <p>This website is created purely for fun! It's a space to experiment, share ideas, and enjoy the process of building something cool online.</p>
+    </section>
+
+    <section>
+      <h2>Developer Info</h2>
+      <p>This site is developed by <strong>Rohan</strong>. Feel free to explore, learn, and have fun!</p>
+    </section>
+
+    <section>
+      <h2>Got Suggestions?</h2>
+      <p>We’re always listening! If you have any ideas, feedback, or suggestions, don’t hesitate to reach out. Your input is always welcome and appreciated.</p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Fun Website by Rohan. All rights reserved.
+  </footer>
+
+</body>
+</html>
