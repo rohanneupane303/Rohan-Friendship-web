@@ -1,5 +1,61 @@
 <!DOCTYPE html><html lang="ne">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>कौतुकको वेबसाइट</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f2f2f2;
+      color: #333;
+      padding: 20px;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    .poem {
+      background-color: #f9f9f9;
+      border-left: 5px solid #3498db;
+      padding: 20px;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>कौतुक – हाम्रो प्रिय साथी</h1>
+    <p><strong>परिचय:</strong> कौतुक एकदमै अनुशासित, मेहनती र पढाइमा गज्जब प्रतिभाशाली साथी हुन्। जोसुकैलाई प्रोत्साहन दिने, लक्ष्यमा अडिग रहने र कहिले हार नमान्ने उनको स्वभाव हो।</p>
+    <p>तर उनको लेखाइ... त्यो चाहिँ अर्कै स्तरको कला हो – जसलाई बुझ्नका लागि डिकोडिङ एप चाहिन्छ!</p><div class="poem">
+  <p><strong>हास्य कविता:</strong></p>
+  <p>कौतुक नामको साथी हाम्रै गज्जबको कुरा,<br>
+  अनुशासनमा लम्बो रेखा, मेहनतमा उस्तै गुरा।</p>
+  <p>पढाइमा यो त बाजी मारे, किताब उसले गाली गरो,<br>
+  तर कापी हेर्दा आँखा पो दुख्ने, अक्षरले धमाका करो!</p>
+  <p>पढ्न बसेको हेर्ने बित्तिकै, घडी पनि डराउँछ रे,<br>
+  "यो मान्छे कहिले थाक्ला?" भनी समय पनि हर्षाउँछ रे।</p>
+  <p>स्ट्रिक्ट उसको नियम छ, 'नो चिटिङ्, नो लेट',<br>
+  क्लासको पहिलो बेन्चमा, त्यहाँ त उसैको सेट।</p>
+  <p>तर उसले लेखेपछि, कागजले माग्छ अस्पताल,<br>
+  "डाक्टर साब, अक्षरको अपरेसन गरिदिनुस् न बालबाल!"</p>
+  <p>खेल्न बोलाउँदा कहिलेकाहीं, भन्छ– “आज पढ्नै पर्छ”,<br>
+  पछाडि उसको ट्यागलाइन, “राम्रो लेखाइ छैन भन्नै पर्दछ!”</p>
+  <p>कौतुक हाम्रो पक्कै प्रिय, पढाइमा सुपरस्टार,<br>
+  तर लेखाइले सन्देश दिन्छ– "Please type, handwriting is bizarre!"</p>
+</div>
+
+  </div>
+</body>
+</html><!DOCTYPE html><html lang="ne">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rabin - 1XMaster</title>
