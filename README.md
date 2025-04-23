@@ -425,3 +425,45 @@
 
 </body>
 </html>
+<!DOCTYPE html><html lang="ne">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>कौतुक – साथीको कथा</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: transparent;
+      color: #333;
+      padding: 0;
+      margin: 0;
+    }
+    .poem-container {
+      padding: 10px;
+      font-size: 16px;
+    }
+    .poem-title {
+      font-weight: bold;
+      color: #2c3e50;
+      margin-bottom: 8px;
+    }
+    .poem {
+      background-color: #f9f9f9;
+      border-left: 4px solid #3498db;
+      padding: 10px;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <div class="poem-container">
+    <div class="poem-title">कौतुक – मेहनती तर मजाकिलो साथी</div>
+    <div class="poem">
+      पढ्न बसेपछि उठ्दैन कहिल्यै,<br>
+      किताबसँग उसको खासै मेल छ।<br>
+      अक्षरले चाहिँ गर्दा छ हमला,<br>
+      "पढ्नुभन्दा टाइप गर" भन्ने बेला छ!
+    </div>
+  </div>
+</body>
+</html>
