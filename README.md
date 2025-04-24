@@ -1,11 +1,11 @@
 <h2 style="text-align: center;">Narisa</h2>
 <pre style="font-family: inherit; font-size: inherit; line-height: inherit;">
-TT-Criminal को माफी #43#43
+TT-Criminal र साथ साथै १प्रिय साथी को माफी #43#43
 
 
 पुराना हाँसोहरू फर्काऊँ, यत्ति मात्र आशा गरी।
 
-तँलाई थाहा छ, कस्ले TikTok मा criminal भनेर राखेको छ।
+तँलाई थाहा छ, कस्ले TikTok मा criminal भनेर राखेको छ र फेरि माफी अर्को प्रिय साथीलाई
 </pre>
   
 
